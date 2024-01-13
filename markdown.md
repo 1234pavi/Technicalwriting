@@ -1,4 +1,8 @@
 
 #### PAvithra
 
-[hello]w3school
+I LOVE **BOLD TEXT**.
+
+I LOVE __BOLD TEXT__.
+
+LOVE **IS** BOLD.

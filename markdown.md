@@ -3,9 +3,11 @@
 
 PA**VI**THRA
 
-PA __VI__ THRA
+PA
+__VI__
+THRA
 
-PA V**I** T**H**R**A**
+PA V**I**T**H**R**A**
 
 I LOVE **BOLD TEXT**.
 
